@@ -1,4 +1,4 @@
-Gallery 
+Machine: Gallery 
 Link: https://tryhackme.com/r/room/gallery666
 Difficulty: Easy
 OS: Linux
