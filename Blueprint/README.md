@@ -1,4 +1,4 @@
-Blueprint 
+Machine: Blueprint 
 Link: https://tryhackme.com/r/room/blueprint
 Difficulty: Easy
 OS: Windows
