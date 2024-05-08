@@ -1,5 +1,5 @@
 # TryhackmeCTF
-In this repository you can find documentation of each machine that I have pwned in tryhackme
+In this repository you can find documentation of each machine on Tryhackme that I'm pwning through the time 
 
 Follow me: https://tryhackme.com/p/jossie
 
